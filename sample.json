@@ -3,7 +3,7 @@
     "prname": "Barbie Tshirt",
     "id": "1",
     "prrating": "3.6",
-    "prprice": "1,299",
+    "prprice": 1799,
     "proffer": "Offer Price 2,199",
     "imgurl": "https://assets.ajio.com/medias/sys_master/root/20230901/LSWJ/64f1cf16afa4cf41f59ca0f1/gap_kids_pink_barbie_crew-neck_sweatshirt.jpg"
     },
@@ -12,7 +12,7 @@
     "prname": "Barbie Crew Tshirt",
     "id": "2",
     "prrating": "3.6",
-    "prprice": "1,299",
+    "prprice": 299,
     "proffer": "Offer Price",
     "imgurl": "https://assets.ajio.com/medias/sys_master/root/20230911/i5YI/64ff248fddf7791519ca0050/gap_kids_purple_barbie_organic_cotton_graphic_print_crew-neck_t-shirt.jpg"
     },
@@ -21,7 +21,7 @@
     "prname": "Barbie Tshirt",
     "id": "3",
     "prrating": "3.8",
-    "prprice": "1,299",
+    "prprice": 1089,
     "proffer": "Offer Price",
     "imgurl": "https://assets.ajio.com/medias/sys_master/root/20240207/feuH/65c3a20a16fd2c6e6ae682f2/gap_kids_pink_barbie_organic_cotton_round-neck_t-shirt.jpg"
     },
@@ -29,7 +29,7 @@
     "prname": "Barbie Tshirt",
     "id": "3",
     "prrating": "3.6",
-    "prprice": "1,299",
+    "prprice":499,
     "proffer": "Offer Price",
     "imgurl": "https://assets.ajio.com/medias/sys_master/root/20230901/m3QN/64f1ce2bddf77915198f72e7/gap_kids_white_ribbed_tank_top_with_placement_emboridery.jpg"
 
@@ -38,7 +38,7 @@
     "prname": "Barbie Tshirt",
     "id": "3",
     "prrating": "3.6",
-    "prprice": "1,299",
+    "prprice": 800,
     "proffer": "Offer Price",
     "imgurl": "https://assets.ajio.com/medias/sys_master/root/20230901/70hu/64f1d172afa4cf41f59cad67/gap_kids_pink_barbie_arch_logo_rib_tank_dress.jpg"
 
@@ -47,27 +47,27 @@
     "prname": "Barbie Tshirt",
     "id": "3",
     "prrating": "3.6",
-    "prprice": "1,299",
+    "prprice": 329,
     "proffer": "Offer Price",
-    "imgurl": "https://assets.ajio.com/medias/sys_master/root/20230901/70hu/64f1d172afa4cf41f59cad67/gap_kids_pink_barbie_arch_logo_rib_tank_dress.jpg"
+    "imgurl": "https://assets.ajio.com/medias/sys_master/root/20230911/u5TU/64ff5619ddf7791519ccf43f/-473Wx593H-442110207-pink-MODEL.jpg"
 
     },
     {"prcomp": "Gap Kids",
     "prname": "Barbie Tshirt",
     "id": "3",
     "prrating": "3.6",
-    "prprice": "1,299",
+    "prprice": 1001,
     "proffer": "Offer Price",
-    "imgurl": "https://assets.ajio.com/medias/sys_master/root/20230901/70hu/64f1d172afa4cf41f59cad67/gap_kids_pink_barbie_arch_logo_rib_tank_dress.jpg"
+    "imgurl": "https://assets.ajio.com/medias/sys_master/root/20230901/9nzP/64f1d2c1afa4cf41f59cb512/-473Wx593H-442110177-pink-MODEL.jpg"
 
     },
     {"prcomp": "Gap Kids",
     "prname": "Barbie Tshirt",
     "id": "3",
     "prrating": "3.6",
-    "prprice": "1,299",
+    "prprice": 1499,
     "proffer": "Offer Price",
-    "imgurl": "https://assets.ajio.com/medias/sys_master/root/20230901/70hu/64f1d172afa4cf41f59cad67/gap_kids_pink_barbie_arch_logo_rib_tank_dress.jpg"
+    "imgurl": "https://assets.ajio.com/medias/sys_master/root/20230901/pqxT/64f1cff5afa4cf41f59ca548/-473Wx593H-442110422-pink-MODEL.jpg"
 
     }
 ]
